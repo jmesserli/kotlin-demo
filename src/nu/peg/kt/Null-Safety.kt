@@ -1,4 +1,4 @@
-package nu.peg.kt.nullsafety
+package nu.peg.kt
 
 fun main(args: Array<String>) {
     // The compiler ensures that variables will never be null, essentially eliminating NullPointerExceptions

@@ -1,4 +1,4 @@
-package nu.peg.kt.lambdas
+package nu.peg.kt
 
 fun main(args: Array<String>) {
     // This is as verbose as it gets

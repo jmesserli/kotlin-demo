@@ -1,4 +1,4 @@
-package nu.peg.kt.extensions
+package nu.peg.kt
 
 fun main(args: Array<String>) {
     // Extension functions can be used like a instance method

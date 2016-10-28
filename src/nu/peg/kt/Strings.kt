@@ -1,4 +1,4 @@
-package nu.peg.kt.strings
+package nu.peg.kt
 
 fun main(args: Array<String>) {
     // Raw strings can be multiline and contain any characters unescaped
